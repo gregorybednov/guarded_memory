@@ -7,5 +7,7 @@ Tested in Debian 10 (x64, VM) and TinyCoreLinux (x86, real machine). To compile 
 1) download the repo
 2) go to repo directory in terminal
 3) write in terminal:
-`gcc -o ./test1 -lpthread main.c`
-`./test1`
+```bash
+gcc -o ./test1 -lpthread main.c`
+./test1
+```
